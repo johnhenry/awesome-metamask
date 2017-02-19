@@ -27,8 +27,6 @@ This is a list of sites using compatible with the metamask extension.
 - [EtherRoll](http://www.etheroll.com/) -- Online Betting
 - [BlockJack](http://blockjack.io/) -- Online Betting
 - [Ethlance](http://ethlance.com/) -- Freelance Employment
-- []()
-- []()
 
 ## Articles
 Articles about metamask
