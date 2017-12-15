@@ -9,10 +9,15 @@ Your contributions are always welcome!
 
 ## Table of Contents
 - [Contents](#table-of-contents)
+- [Browsers](#browsers)
 - [Extensions](#extensions)
 - [Compatible Sites](#compatible-sites)
 - [Important Standards](#important-standards)
 - [Resources](#resources)
+
+## Browsers
+Use these browsers to interact with compatible sites.
+- [Brave](https://brave.com/)
 
 ## Extensions
 Use the extension to interact with compatible sites.
