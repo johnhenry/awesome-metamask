@@ -28,7 +28,7 @@ This is a list of sites using compatible with the metamask extension.
 - [Etherplay](http://etherplay.io/) -- Ethereum-powered Arcade Game
 - [MAKER market](https://mkr.market/) -- Cryptoken Exchange
 - [OasisDEX](https://oasisdex.com/) -- Decentralized Token Market
-- [EtherDelta](https://etherdelta.github.io) -- Cryptoken Exchange
+- [EtherDelta](https://etherdelta.com/) -- Cryptoken Exchange
 - [EtherRoll](https://www.etheroll.com/) -- Online Betting
 - [Ethlance](https://ethlance.com/) -- Freelance Employment
 - [Crypto Kitties](https://www.cryptokitties.co) -- Virtual Pet Game
