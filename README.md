@@ -31,7 +31,8 @@ This is a list of sites using compatible with the metamask extension.
 - [EtherDelta](https://etherdelta.com/) -- Cryptoken Exchange
 - [EtherRoll](https://www.etheroll.com/) -- Online Betting
 - [Ethlance](https://ethlance.com/) -- Freelance Employment
-- [Crypto Kitties](https://www.cryptokitties.co) -- Virtual Pet Game
+- [Crypto Kitties](https://www.cryptokitties.co) -- Blockchain Collectibles
+- [CryptoPunks](https://www.larvalabs.com/cryptopunks) -- Blockchain Collectibles
 
 ## Articles
 Articles about metamask
