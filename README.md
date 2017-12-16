@@ -24,7 +24,7 @@ Use the extension to interact with compatible sites.
 - [Chrome](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
 ## Compatible Sites
-This is a list of sites using compatible with the metamask extension.
+This is a list of sites compatible with the metamask extension.
 - [Etherplay](http://etherplay.io/) -- Ethereum-powered Arcade Game
 - [MAKER market](https://mkr.market/) -- Cryptoken Exchange
 - [OasisDEX](https://oasisdex.com/) -- Decentralized Token Market
