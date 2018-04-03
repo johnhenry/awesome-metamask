@@ -49,3 +49,7 @@ Resources pertaining to creating dApps with metamask
 - [Metamask Blog](https://medium.com/metamask)
 - [Metamask Twitter Feed](https://twitter.com/metamask_io)
 - [Metamask Youtube Channel](https://www.youtube.com/channel/UCcizsiFcuxMrSWcPAuSNbuA)
+
+## Services
+Services related to Metamask
+- [EtherGlade - Add Metamask to any Site](https://www.etherglade.com/)
